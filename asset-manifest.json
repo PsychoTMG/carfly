@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/carfly/static/css/main.9f227864.css",
-    "main.js": "/carfly/static/js/main.0839ce3e.js",
+    "main.js": "/carfly/static/js/main.036c0287.js",
     "index.html": "/carfly/index.html",
     "static/media/line.svg": "/carfly/static/media/line.e0c8432633f36f9ab6bf.svg",
     "main.9f227864.css.map": "/carfly/static/css/main.9f227864.css.map",
-    "main.0839ce3e.js.map": "/carfly/static/js/main.0839ce3e.js.map"
+    "main.036c0287.js.map": "/carfly/static/js/main.036c0287.js.map"
   },
   "entrypoints": [
     "static/css/main.9f227864.css",
-    "static/js/main.0839ce3e.js"
+    "static/js/main.036c0287.js"
   ]
 }
