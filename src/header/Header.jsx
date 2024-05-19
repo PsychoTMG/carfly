@@ -15,7 +15,7 @@ const Header = () => {
         </div>
         <div className={style.title}>
           <ul>
-            <a href="/#"><li>пук-ger</li></a>
+            <a href="/#"><li>Главная</li></a>
             <a href="/#"><li>Подукция</li></a>
             <a href="/#"><li>Где купить</li></a>
             <a href="/#"><li>Вопрос-ответ</li></a>
