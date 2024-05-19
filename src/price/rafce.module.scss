@@ -1,0 +1,39 @@
+.wrapper {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+    .container {
+        margin-top: 400px;
+
+        width: 1100px;
+        max-width: 100%;
+
+        h1 {
+            margin-bottom: 40px;
+        }
+
+
+        .block {
+            background-color: #0B1C47;
+            margin-bottom: 20px;
+            padding: 20px;
+
+            .active {
+                background-color: red;
+            }
+
+            .info {
+                display: flex;
+                justify-content: space-between;
+
+                img {
+                    cursor: pointer;
+                }
+            }
+        }
+
+    }
+}
